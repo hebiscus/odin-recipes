@@ -1,0 +1,32 @@
+img {
+    height: 500px;
+    width:auto;
+}
+
+#main {
+    color: rgb(138, 9, 9);
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 0in;
+}
+
+.titles {
+    color: aquamarine;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.table {
+    font-size: 18px;
+    font-style: italic;
+
+}
+
+.table.ingredients {
+    background-color: aliceblue;
+
+}
+
+.table.steps {
+    background-color: rgb(157, 202, 241);
+}
