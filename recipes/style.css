@@ -1,14 +1,43 @@
-img {
-    height: 500px;
-    width:auto;
+body {
+    min-height: 100vh;
+    margin: 0;
 }
 
+
 #main {
-    color: rgb(138, 9, 9);
+    height: 100;
+    padding: 10px;
+    text-align: center;
+    color: rgb(180, 23, 23);
+    background-color: rgb(138, 9, 9);
     font-size: 40px;
-    font-weight: bold;
-    text-shadow: 0in;
+    font-weight: 800;
+    text-shadow: 2px 2px 4px rgb(36, 17, 17) ;
+    margin: 0;
 }
+
+.additional {
+    background-color: black;
+    height: 500px;
+    width: 17px;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+.tummy {
+    display: flex;
+    flex-direction: row;
+   background-color: rgb(126 145 103);
+
+}
+
+.des-ing {
+    padding-left: 10px;
+}
+
 
 .titles {
     color: aquamarine;
