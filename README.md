@@ -1,9 +1,12 @@
 # First project from Odin project - Odin-recipes
 Introducing: a recipe for the best lasagne you could ever imagine (and I hope your imagination is good)
 
-Tools: Basic HTML, basic CSS
+Tools: Vanilla HTML, vanilla CSS
 
 Live view: https://hebiscus.github.io/odin-recipes/
+
+## Recipe used:
+by John Chandler -> https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/
 
 ## Images used:
 1. Black arrow image -> by Elionas: https://pixabay.com/images/id-1435215/
